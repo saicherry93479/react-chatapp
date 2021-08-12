@@ -145,15 +145,18 @@ function MessageLeft() {
           </div>
         </div>
       </div>
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          background: "lightBlue",
+        }}
+      >
+        <h3 style={{ marginLeft: "10px", fontWeight: "500", color: "hotpink" }}>
+          Recent Chats
+        </h3>
+      </div>
       <div className="messageLeftchatFriends">
-        <div style={{ display: "flex", alignItems: "center" }}>
-          <h3
-            style={{ marginLeft: "10px", fontWeight: "500", color: "hotpink" }}
-          >
-            Recent Chats
-          </h3>
-        </div>
-
         <div>
           {/* <h2>Recent Chats</h2> */}
           <div className="searchScrollerMessageLeft">

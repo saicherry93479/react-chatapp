@@ -89,7 +89,7 @@ function Search(props) {
         <div>
           <h2 style={{ fontWeight: "300" }}>Your Friends</h2>
           <input type="text" className="inputSearch"></input>
-          <div className="searchScroller">
+          <div className="searchScrollerRight">
             {userFriends.map((doc, index) => (
               <div key={index}>
                 <UserDisplayer
