@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-chatapp/static/css/main.9233733d.chunk.css",
+    "main.js": "/react-chatapp/static/js/main.c3ffd60e.chunk.js",
+    "main.js.map": "/react-chatapp/static/js/main.c3ffd60e.chunk.js.map",
+    "runtime-main.js": "/react-chatapp/static/js/runtime-main.dad6128f.js",
+    "runtime-main.js.map": "/react-chatapp/static/js/runtime-main.dad6128f.js.map",
+    "static/js/2.486cf4b1.chunk.js": "/react-chatapp/static/js/2.486cf4b1.chunk.js",
+    "static/js/2.486cf4b1.chunk.js.map": "/react-chatapp/static/js/2.486cf4b1.chunk.js.map",
+    "static/js/3.c31d28f8.chunk.js": "/react-chatapp/static/js/3.c31d28f8.chunk.js",
+    "static/js/3.c31d28f8.chunk.js.map": "/react-chatapp/static/js/3.c31d28f8.chunk.js.map",
+    "index.html": "/react-chatapp/index.html",
+    "static/css/main.9233733d.chunk.css.map": "/react-chatapp/static/css/main.9233733d.chunk.css.map",
+    "static/js/2.486cf4b1.chunk.js.LICENSE.txt": "/react-chatapp/static/js/2.486cf4b1.chunk.js.LICENSE.txt",
+    "static/media/chatHome.023cd395.svg": "/react-chatapp/static/media/chatHome.023cd395.svg",
+    "static/media/signUpLogo.c22926de.svg": "/react-chatapp/static/media/signUpLogo.c22926de.svg",
+    "static/media/signup.e65db9bf.svg": "/react-chatapp/static/media/signup.e65db9bf.svg",
+    "static/media/unlock.3896558a.svg": "/react-chatapp/static/media/unlock.3896558a.svg",
+    "static/media/welcome_cats.b554d818.svg": "/react-chatapp/static/media/welcome_cats.b554d818.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad6128f.js",
+    "static/js/2.486cf4b1.chunk.js",
+    "static/css/main.9233733d.chunk.css",
+    "static/js/main.c3ffd60e.chunk.js"
+  ]
+}
