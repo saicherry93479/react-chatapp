@@ -1,0 +1,35 @@
+.navBarHero {
+  height: 100vh;
+  width: 5vw;
+  background-color: rgb(30, 19, 59);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.navBarHeroTop {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 30vh;
+}
+.iconTop {
+  height: 8vh;
+  width: 5vw;
+  /* background-color: red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.iconTop > i {
+  font-size: 20px;
+  color: white;
+}
+.navBarHeroBottom {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

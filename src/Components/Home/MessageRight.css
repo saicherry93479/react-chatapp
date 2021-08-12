@@ -1,0 +1,18 @@
+.messageHeroRight {
+}
+.messageRightProfile {
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 0.5px solid rgb(54, 43, 82);
+}
+.messageRightSharedMedia {
+  height: 30vh;
+  border-bottom: 0.5px solid rgb(54, 43, 82);
+}
+.messageRightSharedLinks {
+  height: 40vh;
+  border-bottom: 0.5px solid rgb(54, 43, 82);
+}

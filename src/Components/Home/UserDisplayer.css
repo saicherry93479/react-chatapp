@@ -1,0 +1,19 @@
+.userDisplayer {
+  width: 70%;
+  background-color: whitesmoke;
+  display: flex;
+  margin-top: 20px;
+  height: 10vh;
+  align-items: center;
+  padding-left: 20px;
+  border-radius: 10px;
+}
+.userDisplayerRight {
+  margin-left: 10px;
+}
+.userDisplayerRight > h3 {
+  margin: 0;
+}
+.userDisplayerRight > p {
+  margin: 0;
+}

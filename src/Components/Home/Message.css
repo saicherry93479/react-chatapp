@@ -1,0 +1,24 @@
+.messageHero {
+  width: 95vw;
+  height: 100vh;
+  /* background-color: crimson; */
+  display: flex;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.messageHeroLeft {
+  width: 25vw;
+  height: 100vh;
+  background-color: whitesmoke;
+  border-right: 0.5px solid rgb(197, 189, 189);
+}
+.messageHeroMain {
+  width: 50vw;
+  height: 100vh;
+  /* background-color: gray; */
+}
+.messageHeroRight {
+  width: 20vw;
+  height: 100vh;
+  background-color: rgb(30, 19, 59);
+}

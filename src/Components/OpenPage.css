@@ -1,0 +1,59 @@
+.openPageHero {
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(30, 19, 59);
+}
+.openPageNav {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  margin-left: 15px;
+}
+.logoName {
+  background: -webkit-linear-gradient(
+    rgb(144, 209, 247),
+    rgb(126, 154, 163),
+    rgb(10, 66, 88),
+    lightBlue
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* margin-top: 2vh; */
+  margin-left: 5px;
+}
+.openPageSignInButton {
+  margin-left: auto;
+  margin-right: 20px;
+}
+.openPageContent {
+  display: flex;
+  height: 90vh;
+}
+
+.openPageContentSubContent > div {
+  width: 60%;
+  /* background-color: green; */
+  margin-left: 5vw;
+  margin-top: 20vh;
+}
+.openPageContent > img {
+  height: 90vh;
+  width: 50vw;
+}
+h1 {
+  color: rgb(156, 53, 96);
+  font-weight: 300;
+}
+@media all and (max-width: 750px) {
+  .openPageContent > img {
+    display: none;
+  }
+  .openPageContentSubContent > div {
+    width: 70% ;
+  }
+}
